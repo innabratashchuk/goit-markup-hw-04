@@ -283,7 +283,8 @@ img {
         }
     
         .icon-item {
-        
+        width: 40px;
+        height: 40px;
         }
     
         .background-icon {
@@ -306,6 +307,9 @@ img {
 /* team */
 
 /* footer */
+.logo-container {
+    margin-right: 120px;
+}
 .page-footer {
     background-color: #2e2f42;
     padding-top: 100px;
