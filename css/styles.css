@@ -300,6 +300,13 @@ img {
         .background-icon:hover, 
         .background-icon:focus {
             background-color: #404bbf;
+
+        }
+
+        .footer-back-icon:hover,
+        .footer-back-icon:focus
+        {
+            background-color: #31d0aa;
         }
         .icon {
             fill: #f4f4fd;
@@ -310,7 +317,7 @@ img {
 .logo-container {
     margin-right: 120px;
 }
-    .footer-position {
+.footer-container {
         display: flex;
         align-items: baseline;
     }
