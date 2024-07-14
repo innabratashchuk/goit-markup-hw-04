@@ -275,16 +275,15 @@ img {
  
         .icon-list {
             display: flex;
-                align-items: center;
-                justify-content: center;
-                flex-direction: row;
+            align-items: center;
+            justify-content: center;
+            gap: 24px;
                 
         }
     
         .icon-item {
         width: 40px;
         height: 40px;
-        gap: 24px;
         }
     
         .background-icon {
