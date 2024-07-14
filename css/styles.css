@@ -310,6 +310,10 @@ img {
 .logo-container {
     margin-right: 120px;
 }
+    .footer-position {
+        display: flex;
+        align-items: baseline;
+    }
 .page-footer {
     background-color: #2e2f42;
     padding-top: 100px;
@@ -423,10 +427,12 @@ transform: translateY(0);
         line-height: 1.5;
         letter-spacing: 0.02em;
         color: #fff;
+        margin-bottom: 16px;
 
 }
 .footer-social {
     display: flex;
     justify-content: center;
     align-self: center;
+    gap: 16px;
 }
