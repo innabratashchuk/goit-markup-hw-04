@@ -275,7 +275,6 @@ img {
  
     .icon-list {
             display: flex;
-        
             justify-content: center;
             gap: 24px;
                 
@@ -441,8 +440,5 @@ transform: translateY(0);
     display: flex;
     justify-content: center;
     align-self: center;
-    gap: 16px;
-}
-.icon-list {
     gap: 16px;
 }
