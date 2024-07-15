@@ -120,7 +120,7 @@ img {
     padding-top: 188px;
     padding-bottom: 188px;
     background-image: linear-gradient(rgba(46, 47, 66, 0.7),rgba(46, 47, 66, 0.7)),
-            url(../images/people-office\ 1-min.jpg);
+     url(../images/people-office.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
@@ -273,15 +273,15 @@ img {
     text-align: center;
     color: #434455;}
  
-        .icon-list {
+    .icon-list {
             display: flex;
-            align-items: center;
+        
             justify-content: center;
             gap: 24px;
                 
         }
     
-        .icon-item {
+ .icon-item {
         width: 40px;
         height: 40px;
         }
