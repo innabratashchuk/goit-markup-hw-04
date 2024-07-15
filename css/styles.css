@@ -442,3 +442,6 @@ transform: translateY(0);
     align-self: center;
     gap: 16px;
 }
+.footer-icon-list {
+    gap: 16px;
+}
