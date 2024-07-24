@@ -271,7 +271,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    color: #434455;}
+    color: #434455;
+margin-bottom: 8px;}
  
     .icon-list {
             display: flex;
@@ -437,10 +438,7 @@ transform: translateY(0);
 
 }
 .footer-social {
-    display: flex;
-    justify-content: center;
-    align-self: center;
-    gap: 16px;
+    
 }
 .footer-icon-list {
     gap: 16px;
